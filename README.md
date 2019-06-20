@@ -1,4 +1,4 @@
-# manufacturing_evaluation
+# manufacturing-evaluation
 The attached manufacturing case planning domain/problem files give the PDDL files of when there are 4 metal blocks. 3 operations for each operation metal, and 2 overlapping operations over these 2 operations. We also trivialise the pre-conditions/post-effects of the actual operations to be true. However, it doesn't affect our scientifical purpose of merging identical sub-intentions.
 
 The detailed case illustration can be found in the pdf called 3_blocks_3_operation_2_overlaps.pdf
