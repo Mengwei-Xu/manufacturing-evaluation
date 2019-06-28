@@ -4,8 +4,9 @@
              g2 p2 a21 a22 a23 a1-p2 a24 a2-p2 a3-p2 a25 a4-p2
              g3 p3 a31 a32 a33 a1-p3 a34 a2-p3 a3-p3 a35 a4-p3
              g4 p4 a41 a42 a43 a1-p4 a44 a2-p4 a3-p4 a45 a4-p4
+             free a1 a3
     )
-   (:init (pointer g1) (pointer g2) (pointer g3) (pointer g4)
+   (:init (pointer g1) (pointer g2) (pointer g3) (pointer g4) (hand free)
     ( = (total-cost) 0)
     )
    (:goal (and
